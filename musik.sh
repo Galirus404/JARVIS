@@ -1,0 +1,3 @@
+z="
+";Pz='3" "';Qz='c4.m';Cz='liru';Dz='s=( ';cz='{mus';Bz='c_ga';nz='E/JA';kz='play';Lz='.mp3';rz='s re';xz='null';pz='/sou';Vz='=$((';Oz='3.mp';Gz='p3" ';Fz='ic.m';Iz='mp3"';lz=' -q ';gz='ando';yz=' &';mz='$HOM';jz='}"';Tz='om_i';Mz='" "m';vz=' &>/';Ez='"mus';Xz='OM %';uz=' 0.1';Jz=' "mu';Uz='ndex';wz='dev/';Yz=' ${#';fz='us[r';Wz='RAND';hz='m_in';Nz='usic';Az='musi';Hz='ic1.';qz='nd/$';Kz='sic2';Zz='s[@]';az='}))';sz='peat';dz='ic_g';Sz='rand';tz=' vol';ez='alir';bz='s="$';iz='dex]';Rz=')';oz='RVIS';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Ez$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Az$Qz$Gz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Az$Bz$Cz$Zz$az$z$Az$Bz$Cz$bz$cz$dz$ez$fz$gz$hz$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$Az$Bz$Cz$rz$sz$tz$uz$vz$wz$xz$yz"
