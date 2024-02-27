@@ -4,7 +4,7 @@ pkg install git bash sox -y
 
 cd $HOME
 
-git clone https://github.com/Galirus404/JARVIS
+git clone --depth 1 https://github.com/Galirus404/JARVIS
 
 cd JARVIS
 
