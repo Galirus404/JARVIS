@@ -1,0 +1,6 @@
+#!bash
+wa="com.whatsapp/com.whatsapp.Main"
+play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
+play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
+am start -n $wa
+clear

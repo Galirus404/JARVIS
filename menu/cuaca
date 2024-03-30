@@ -1,0 +1,5 @@
+#!bash
+# Query weather API for current weather
+play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
+play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null &
+curl http://wttr.in

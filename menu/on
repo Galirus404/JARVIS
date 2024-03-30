@@ -1,0 +1,7 @@
+#!bash
+
+mv /$HOME/JARVIS/off.sh /$HOME/JARVIS/musik.sh
+play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
+play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
+bash $HOME/JARVIS/musik.sh
+clear

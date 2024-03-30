@@ -1,0 +1,20 @@
+#!bash
+if pgrep -f $HOME/JARVIS/dialog.sh > /dev/null; then
+    play -q $HOME/JARVIS/sound/salah.mp3 &>/dev/null
+play -q $HOME/JARVIS/sound/commandfalid.mp3 &>/dev/null &
+    echo "Script sedang berjalan, tidak perlu dijalankan ulang."
+    sleep 5
+ clear
+read -p "Apakah Anda ingin mematikan dialog jarvis di latar belakang? y/n " answer
+if [ "$answer" = "y" ]; then
+  pkill -f $HOME/JARVIS/dialog.sh
+  echo "File dialog latar balakang dimatikan."
+fi
+else
+	play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
+        play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
+    echo "Script tidak sedang berjalan, menjalankan script..."
+    sleep 5
+    bash $HOME/JARVIS/dialog.sh &>/dev/null &
+	clear
+fi

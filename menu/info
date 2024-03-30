@@ -1,0 +1,30 @@
+#!bash
+
+q="-e"
+e="echo "
+s="sleep 1"
+ss="sleep 2"
+sss="sleep 3"
+v="4.2.0"
+m="\033[1;31m"
+h="\033[1;32m"
+k="\033[1;33m"
+b="\033[1;34m"
+bl="\033[1;36m"
+p="\033[1;37m"
+
+play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
+play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
+apt install screenfetch -y
+clear
+play -q $HOMD/JARVIS/sound/robot.mp3 &>/dev/null &
+bash $HOME/JARVIS/logo2.sh
+play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null &
+	echo $q $b" ╔══════════════════════════════════════════════╗$b"
+        echo $q $b" ║$m         INFORMASI DEVICES/PERANGKAT         $b ║"
+        echo $q $b" ╚══════════════════════════════════════════════╝$b"
+  screenfetch -n
+	echo $q $m
+	sleep 3
+read -p "Enter For LAUNCHER"
+play -q $HOME/JARVIS/sound/klik.mp3 &>/dev/null
