@@ -1,4 +1,4 @@
-#!bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 mv /$HOME/JARVIS/musik.sh /$HOME/JARVIS/off.sh
 killall play
