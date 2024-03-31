@@ -1,4 +1,4 @@
-
+#/bin/bash
 
 musik="$HOME/JARVIS/music"
 if [ -f "$musik" ]; then
