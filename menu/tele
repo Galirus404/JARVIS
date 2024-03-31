@@ -1,4 +1,4 @@
-#!bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 tele="org.telegram.messenger/org.telegram.messenger.DefaultIcon"
 play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null

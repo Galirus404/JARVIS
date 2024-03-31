@@ -1,4 +1,4 @@
-#!bash
+#!/data/data/com.termux/files/usr/bin/bash
 tik="com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity"
 play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
 play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
