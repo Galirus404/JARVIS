@@ -1,22 +1,6 @@
-#!bash
-e="echo -e"
-s="sleep 1"
-ss="sleep 2"
-sss="sleep 3"
-v="4.2.0"
-m="\033[1;31m"
-h="\033[1;32m"
-k="\033[1;33m"
-b="\033[1;34m"
-bl="\033[1;36m"
-p="\033[1;37m"	
+# Encrypted by K-fuscator
+# Github- https://github.com/KasRoudra/k-fuscator
 
-play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
-cd /data/data/com.termux/files/usr/etc
-mv GALIRUS bash.bashrc
-$e $h "TAMPILAN SUDAH MENJADI DEFAULT"
-play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null &
-sleep 5
-clear
-cd $HOME/JARVIS
-bash jarvis.sh
+z="
+";Zz='bl="';jz='RVIS';Lz='ep 3';kz='/sou';yz='es/u';WBz='/dev';DBz='ALIR';pz='v/nu';Cz='-e"';cz='6m"';PBz='I DE';Vz='k="\';LBz='LAN ';tz='/dat';fz='play';hz='$HOM';lz='nd/o';UBz='2.mp';ABz='sr/e';FBz='ash.';Nz='v="4';Fz=' 1"';Pz='m="\';iz='E/JA';sz='data';Qz='033[';Dz='s="s';Gz='ss="';qz='ll';BBz='tc';iBz='sh';Az='e="e';wz='rmux';Sz='m"';CBz='mv G';Iz='p 2"';bBz='r';ez='1;37';Rz='1;31';OBz='NJAD';Bz='cho ';Oz='.2.0';vz='m.te';ZBz='p 5';YBz='l &';nz='p3 &';NBz='H ME';EBz='US b';VBz='3 &>';QBz='FAUL';Jz='sss=';aBz='clea';XBz='/nul';Hz='slee';Mz='"';gBz=' jar';IBz='$e $';Ez='leep';bz='[1;3';hBz='vis.';TBz='obot';JBz='h "T';gz=' -q ';Tz='h="\';dz='p="\';uz='a/co';Xz='b="\';Uz='1;32';KBz='AMPI';mz='ke.m';GBz='bash';RBz='T"';MBz='SUDA';SBz='nd/r';Kz='"sle';Wz='1;33';fBz='VIS';dBz='HOME';az='\033';oz='>/de';xz='/fil';rz='cd /';HBz='rc';eBz='/JAR';cBz='cd $';Yz='1;34';
+eval "$Az$Bz$Cz$z$Dz$Ez$Fz$z$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$z$Nz$Oz$Mz$z$Pz$Qz$Rz$Sz$z$Tz$Qz$Uz$Sz$z$Vz$Qz$Wz$Sz$z$Xz$Qz$Yz$Sz$z$Zz$az$bz$cz$z$dz$Qz$ez$Sz$z$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$z$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$z$CBz$DBz$EBz$FBz$GBz$HBz$z$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$fz$gz$hz$iz$jz$kz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$z$Hz$ZBz$z$aBz$bBz$z$cBz$dBz$eBz$fBz$z$GBz$gBz$hBz$iBz"

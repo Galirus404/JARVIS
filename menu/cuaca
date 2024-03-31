@@ -1,5 +1,6 @@
-#!bash
-# Query weather API for current weather
-play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
-play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null &
-curl http://wttr.in
+# Encrypted by K-fuscator
+# Github- https://github.com/KasRoudra/k-fuscator
+
+z="
+";Bz=' -q ';Wz='wttr';Oz='2.mp';Az='play';Iz='p3 &';Uz=' htt';Jz='>/de';Kz='v/nu';Ez='RVIS';Pz='3 &>';Qz='/dev';Xz='.in';Cz='$HOM';Lz='ll';Fz='/sou';Rz='/nul';Nz='obot';Mz='nd/r';Tz='curl';Gz='nd/o';Dz='E/JA';Sz='l &';Vz='p://';Hz='ke.m';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Az$Bz$Cz$Dz$Ez$Fz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz"

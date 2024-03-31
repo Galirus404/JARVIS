@@ -1,6 +1,6 @@
-#!bash
+# Encrypted by K-fuscator
+# Github- https://github.com/KasRoudra/k-fuscator
 
-play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
-play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
-am start -n com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor
-clear
+z="
+";Cz='$HOM';Qz='/dev';fz='gin.';ez='yplu';Kz='v/nu';Tz='am s';Gz='nd/o';kz='vity';Yz='le.l';Xz='mobi';Lz='ll';pz='clea';bz='om.m';nz='acto';iz='Main';Oz='2.mp';mz='Extr';gz='Moba';lz='With';Iz='p3 &';hz='Game';dz='unit';Pz='3 &>';oz='r';Nz='obot';Fz='/sou';Mz='nd/r';Vz=' -n ';az='ds/c';Wz='com.';Bz=' -q ';Dz='E/JA';Az='play';Sz='l';cz='oba.';Uz='tart';Rz='/nul';jz='Acti';Hz='ke.m';Jz='>/de';Zz='egen';Ez='RVIS';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Az$Bz$Cz$Dz$Ez$Fz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$z$pz$oz"

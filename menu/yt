@@ -1,17 +1,6 @@
-#!bash
+# Encrypted by K-fuscator
+# Github- https://github.com/KasRoudra/k-fuscator
 
-
-play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null play -q 
-play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
-	ulang="y"
-while [  $ulang == "y" ]; do
-	clear
-	bash $HOME/JARVIS/logo2.sh
-	play -q $HOME/JARVIS/sound/klik.mp3 &>/dev/null
-	read -p "APA YANG MAU ANDA CARI : " cariyt
-	play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
-	play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
-xdg-open "https://www.youtube.com/results?search_query=$cariyt"
-read -p "APA ANDA INGIN MENGULANG ? Y/N : " ulang
-done
-
+z="
+";uz='read';aBz='ULAN';nz='sh';Bz=' -q ';ez='; do';fz='clea';CBz='ARI ';mz='go2.';Pz='obot';Tz='/nul';XBz='A IN';SBz='arch';tz='ull';ZBz='MENG';TBz='_que';BBz='DA C';GBz='ll';qz='mp3 ';KBz='tps:';oz='nd/k';cBz='Y/N ';OBz='e.co';jz='ME/J';bBz='G ? ';Rz='3 &>';Wz='g="y';RBz='s?se';Fz='/sou';gz='r';DBz=': " ';Ez='RVIS';PBz='m/re';HBz='xdg-';kz='ARVI';sz='ev/n';Jz='>/de';Yz='whil';dBz='g';wz='"APA';FBz='yt';Nz='-q';VBz='yt"';Lz='ll p';Hz='ke.m';iz=' $HO';IBz='open';pz='lik.';ABz='U AN';lz='S/lo';LBz='//ww';Vz='ulan';Iz='p3 &';UBz='ry=$';Zz='e [ ';JBz=' "ht';xz=' YAN';QBz='sult';Cz='$HOM';Xz='"';rz='&>/d';vz=' -p ';Gz='nd/o';Uz='l';bz='ang ';EBz='cari';az=' $ul';cz='== "';eBz='done';MBz='w.yo';Dz='E/JA';yz='G MA';Az='play';Sz='/dev';NBz='utub';Oz='nd/r';hz='bash';Mz='lay ';YBz='GIN ';Kz='v/nu';Qz='2.mp';dz='y" ]';WBz=' AND';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$z$Az$Bz$Cz$Dz$Ez$Fz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$z$fz$gz$z$hz$iz$jz$kz$lz$mz$nz$z$Az$Bz$Cz$Dz$Ez$Fz$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$GBz$z$Az$Bz$Cz$Dz$Ez$Fz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$EBz$VBz$z$uz$vz$wz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$DBz$Vz$dBz$z$eBz"
