@@ -1,7 +1,6 @@
-#!/data/data/com.termux/files/usr/bin/bash
+# Encrypted by K-fuscator
+# Github- https://github.com/KasRoudra/k-fuscator
 
-mv /$HOME/JARVIS/musik.sh /$HOME/JARVIS/off.sh
-killall play
-play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
-play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
-clear
+z="
+";Ez='/mus';Sz='nd/o';Zz='obot';Xz='ll';ez='l';Bz='$HOM';gz='r';Nz='all ';Oz='mpv';dz='/nul';Dz='RVIS';Mz='kill';Jz='VIS/';Uz='p3 &';Kz='off.';Iz='/JAR';Pz='play';Qz=' -q ';Az='mv /';Hz='HOME';Yz='nd/r';Gz='y /$';az='2.mp';cz='/dev';Rz='/sou';Vz='>/de';Lz='py';Cz='E/JA';Fz='ik.p';Tz='ke.m';bz='3 &>';Wz='v/nu';fz='clea';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$z$Pz$Qz$Bz$Cz$Dz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Pz$Qz$Bz$Cz$Dz$Rz$Yz$Zz$az$bz$cz$dz$ez$z$fz$gz"
