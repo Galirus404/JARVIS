@@ -1,6 +1,6 @@
-#!/data/data/com.termux/files/usr/bin/bash
-mv /$HOME/JARVIS/off.sh /$HOME/JARVIS/musik.sh
-play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
-play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
-bash $HOME/JARVIS/musik.sh
-clear
+# Encrypted by K-fuscator
+# Github- https://github.com/KasRoudra/k-fuscator
+
+z="
+";wz='VIS/';Ez='E/JA';sz='pyth';Yz='jala';nz='menj';uz='HOME';Zz='nkan';yz='k.py';Gz='/mus';fz='r';Iz='y > ';ez='clea';Tz='alan';xz='musi';Jz='/dev';Az='if p';iz='ak s';Rz='ang ';pz='scri';Qz=' sed';Pz='ript';bz='ng."';Lz='l; t';Kz='/nul';CBz='null';hz=' tid';az=' ula';tz='on $';Bz='grep';Hz='ik.p';jz='edan';EBz='fi';Vz='dak ';cz='slee';Dz='$HOM';qz='pt..';Nz='echo';Uz=', ti';gz='else';vz='/JAR';DBz=' &';rz='."';ABz=' &>/';Xz='u di';Wz='perl';Cz=' -f ';kz='g be';Mz='hen';Sz='berj';Fz='RVIS';dz='p 5';Oz=' "Sc';lz='rjal';oz='kan ';BBz='dev/';mz='an, ';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$dz$z$ez$fz$z$gz$z$Nz$Oz$Pz$hz$iz$jz$kz$lz$mz$nz$Tz$oz$pz$qz$rz$z$cz$dz$z$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$z$ez$fz$z$EBz"
